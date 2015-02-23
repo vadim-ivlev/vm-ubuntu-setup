@@ -21,9 +21,11 @@
         ssh user@ubuntu.local
 
 
-и выполните файл:
+Выполните файл:
 
-        ./install-vm.sh
+        ./install-common.sh
+        ./install-oracle-java.sh
+        ./install-vmware.sh
 
 
 
